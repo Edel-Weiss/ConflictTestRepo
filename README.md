@@ -1,2 +1,2 @@
 # ConflictTestRepo
-create and resolve conflict
+create and resolve a conflict
